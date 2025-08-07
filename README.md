@@ -14,4 +14,5 @@ Após instalar as dependências, basta executar o script principal:
 python main.py
 ```
 
-O script irá processar os quatro casos de teste (dois com histogramas fictícios e dois com imagens sintéticas) e imprimirá no terminal o limiar ótimo encontrado para cada um. Todos os artefatos visuais (histogramas, imagens originais e imagens binarizadas) serão salvos no diretório `results/`.
+O script irá processar os quatro casos de teste (dois com histogramas fictícios e dois com imagens sintéticas) e imprimirá no terminal o limiar ótimo encontrado para cada um. Todos os artefatos visuais (histogramas, imagens originais e imagens binarizadas) serão salvos no diretório `results` e os comparativos com o opencv no diretório `opencv_comparacao`.
+
